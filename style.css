@@ -1,0 +1,27 @@
+body
+{
+   background-size: cover;
+}
+h3{
+    color: red
+}
+#restart, #status
+{
+    color: rgb(51, 214, 36);
+    font-size: 20px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: #4299e6;
+    line-height: 3;
+    text-align: center;
+}
+#camera
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
